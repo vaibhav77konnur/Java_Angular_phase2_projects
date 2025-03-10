@@ -15,13 +15,17 @@ Mark a Task as Complete: Update the status of a task when finished.
 Exit the Program: Close the task manager.
 
 <h2>Example Output</h2>
-Welcome to Task Manager!
-1. Add Task
-2. View Tasks
-3. Mark Task as Complete
-4. Delete Task
-5. Exit
-Enter your choice: 1
-Enter task title: Finish Project
-Enter task description: Complete and submit the TMS project.
-Task added successfully!
+
+<ul>
+    <li>Welcome to Task Manager!</li>
+    <li>1. Add Task</li>
+    <li>2. View Tasks</li>
+    <li>3. Mark Task as Complete</li>
+    <li>4. Delete Task</li>
+    <li>5. Exit</li>
+    <li>Enter your choice: 1</li>
+    <li>Enter task title: Finish Project</li>
+    <li>Enter task description: Complete and submit the TMS project.</li>
+    <li>Task added successfully!</li>
+</ul>
+
